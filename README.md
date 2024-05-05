@@ -1,4 +1,4 @@
-[![CI](https://github.com/Feleuxens/keycloak/actions/workflows/ci.yml/badge.svg)](https://github.com/Feleuxens/keycloak/actions/workflows/ci.yml)
+[![CI](https://github.com/Feleuxens/keycloak/actions/workflows/ci.yaml/badge.svg)](https://github.com/Feleuxens/keycloak/actions/workflows/ci.yaml)
 
 # Keycloak
 
