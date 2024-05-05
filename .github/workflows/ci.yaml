@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    tags: [ 'v*' ]
+    tags: [ '*' ]
 
 env:
   DOCKER_PLATFORMS: linux/amd64,linux/arm64/v8
